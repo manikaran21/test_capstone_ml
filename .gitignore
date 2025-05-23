@@ -98,3 +98,9 @@ target/
 cred.txt
 
 notebooks
+data/
+logs/
+models/
+local_s3/
+
+
